@@ -1,4 +1,4 @@
-# 10 AI Data Science Datasets
+# AI Data Science Datasets
 
 Welcome to the Business Science University practice workspace. This project bundles ten curated datasets and accompanying analyses to help you develop portfolio-ready data science projects in both R and Python. Each dataset folder includes a ready-to-run `analysis.py` script that you can execute cell-by-cell (Shift+Enter in VS Code’s Python Interactive window) or as a standard Python script.
 
