@@ -1,0 +1,19 @@
+# See conda_environment_instructions.md for usage instructions
+name: ai_datasets
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - plotnine
+  - scikit-learn
+  - xgboost
+  - folium
+  - geopandas
+  - plotly
+  - pip
+  - pip:
+      - pytimetk
+      - nbformat
+      - ipykernel
